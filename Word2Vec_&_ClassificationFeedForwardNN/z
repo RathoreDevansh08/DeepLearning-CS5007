@@ -1,0 +1,13 @@
+Assignment-2 (Word2Vec and Classification using Feed Forward Neural Networks) -->
+
+The assignment involves using Word2Vec and classification using feed-forward neural network.
+Submit the code as Jupyter notebook (.ipynb file) with outputs and results.
+For the first question you can use scikit-learn.
+For the second question, use Tensorflow or Keras.
+You need not explicitly download any of the datasets. Use built-in functions to fetch the datasets.
+
+The links to various resources required are given below:
+https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
+https://radimrehurek.com/gensim/models/word2vec.html
+https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+https://www.nltk.org/book/
