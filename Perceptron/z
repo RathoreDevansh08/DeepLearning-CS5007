@@ -1,6 +1,5 @@
-Assignment 1
+Assignment-1 (Perceptron algorithm) -->
 
-Perceptron algorithm
 The datasets for question1 can be found in the folder Datasets-Question1.zip.  There are 7 training and test datasets. Write a general python code and then train and test on each  dataset. 
 The file "Dataset Question2.csv" contains the dataset for question2. For normalizing the dataset you can use the MinMaxScaler.
 Maximum submission size is 2MB. If the size of your Jupyter notebook exceeds 2MB, submit as multiple notebooks.
