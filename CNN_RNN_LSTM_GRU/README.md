@@ -1,5 +1,3 @@
-<script src="https://gist.github.com/RathoreDevansh08/163c3541a6bccfde22f462266d0036ed.js"></script>
-
 ## Assignment-3 (CNN, RNN, LSTM, GRU) -->
 
 The assignment involves image classification using CNN and sentiment analysis using RNN, LSTM and GRU.
